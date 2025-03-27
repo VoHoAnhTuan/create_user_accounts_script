@@ -24,3 +24,7 @@ To automate the task of creating passwords and accounts for all of these new hir
 - Generate random 16-character passwords for each user.
 - Create each user account.
 - Write the spreadsheet back to **users_out.csv** with the new passwords.
+
+## Expected output
+![image](https://github.com/user-attachments/assets/5edd6f7f-0103-415c-9fe0-cb6687ed271a)
+
